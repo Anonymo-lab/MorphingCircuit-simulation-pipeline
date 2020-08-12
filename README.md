@@ -11,4 +11,4 @@ As described in Section 5.2, user needs to follow a specified workflow in order 
 
 To submit the code to Abaqus, user needs to firstly open the Abaqus software, then choose: File -> Run script , and then choose the Python code file and click OK . If everything is operated correctly, Abaqus can then automatically build a model, conduct the FEA simulation, and yield the result. The file directory of the final result will be presented once the task is done.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Instruction](instruction_figure.jpg)
