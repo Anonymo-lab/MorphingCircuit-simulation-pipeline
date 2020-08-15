@@ -12,3 +12,5 @@ As described in Section 5.2, user needs to follow a specified workflow in order 
 To submit the code to Abaqus, user needs to firstly open the Abaqus software, then choose: File -> Run script , and then choose the Python code file and click OK . If everything is operated correctly, Abaqus can then automatically build a model, conduct the FEA simulation, and yield the result. The file directory of the final result will be presented once the task is done.
 
 ![Image of Instruction](instruction_figure.jpg)
+
+The code of simulation pipeline is open-source on Github. Here is the link: https://github.com/Anonymo-lab/MorphingCircuit-simulation-pipeline.git
